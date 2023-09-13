@@ -1,0 +1,17 @@
+{
+    "My Profile":"الملف الشخصي",
+    "Notifications":"الإشعارات",
+    "Allow Email Notifications":"السماح بإشعارات البريد الإلكتروني",
+    "Allow":"مسموح",
+    "Not Allow":"غير مسموح",
+    "Allow SMS Notifications":"السماح بإشعارات الرسائل القصيرة",
+    "Allow Broadcast Notifications":"السماح ب Broadcast",
+    "General":"عام",
+    "Localization":"اللغة",
+    "English":"الانجليزية",
+    "Arabic":"العربية",
+    "Gender":"الجنس",
+    "Male":"ذكر",
+    "Female":"انثى",
+    "Change Profile Picture":"تغيير الصورة الشخصية"
+}
